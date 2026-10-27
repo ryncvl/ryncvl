@@ -23,13 +23,13 @@
 
 ## 📊 GitHub Stats
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryncvl&show_icons=true&theme=github_dark)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ryncvl&theme=github-dark)
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/ryan-calvelo
+- Email: ryanv.calvelo@seatrium.com
